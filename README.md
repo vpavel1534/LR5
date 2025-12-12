@@ -123,4 +123,5 @@ Nuclei точно поймал самую опасную уязвимость �
 
 #### 3.2. Таблица
 
+<img width="823" height="469" alt="image" src="https://github.com/user-attachments/assets/e2900507-e2e1-4d44-bf05-2e627961a59f" />
 
