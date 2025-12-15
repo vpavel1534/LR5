@@ -56,6 +56,7 @@ Nikto отметил возможный интересный путь /console (
 <img width="974" height="332" alt="image" src="https://github.com/user-attachments/assets/e60d2d68-0ef4-41e4-b38b-c112e8ce7c2b" />
 
 Алерты:
+
 <img width="606" height="364" alt="image" src="https://github.com/user-attachments/assets/d74dc91b-c794-4aac-a6aa-3e3c3c710be9" />
 
 OWASP ZAP обнаружил следующие уязвимости в приложении:
